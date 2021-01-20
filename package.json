@@ -19,7 +19,7 @@
   "homepage": "https://github.com/kazemi-hub/DeadSpace-Responsive#readme",
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "gsap": "^2.1.3",
+    "gsap": "^3.6.0",
     "jquery": "^3.4.1",
     "scrollmagic": "^2.0.7"
   }
